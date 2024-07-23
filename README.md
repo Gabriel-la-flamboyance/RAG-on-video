@@ -30,7 +30,9 @@ PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
 
 ![image](https://github.com/user-attachments/assets/de7e6f71-1416-46bf-ba7b-664723ea43b4)
 
-# In the pinecone
+# In pinecone
+
+Use pinecone as a vector database to store the vectors, you can also use FAISS, it can handle large amounts of data and perform similarity searches at scale. 
 
 ![image](https://github.com/user-attachments/assets/f8e51255-2187-416a-82f6-922c65701dca)
 
