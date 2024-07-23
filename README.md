@@ -26,7 +26,7 @@ In the .env file make sure to have:
 
 OPENAI_API_KEY = [ENTER YOUR OPENAI API KEY HERE]
 
-PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]
+PINECONE_API_KEY = [ENTER YOUR PINECONE API KEY HERE]   # not needed if you are using FAISS
 
 ![image](https://github.com/user-attachments/assets/de7e6f71-1416-46bf-ba7b-664723ea43b4)
 
